@@ -1,0 +1,35 @@
+﻿@using Dominio;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h1> Lista de Compras de Mayor Precio</h1>
+
+    <table class="table table-dark table-striped">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Actividad</th>
+                <th scope="col">Cantidad de Entradas</th>
+                <th scope="col">Usuario</th>
+                <th scope="col">Fecha y Hora</th>
+                <th scope="col">Precio</th>   
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Compra unaC in @ViewBag.unaC)
+            {
+                <tr>
+                    <th scope="row">@unaC.IdCompra</th>
+                    <td>@unaC.ActividadComprada.NombreActividad</td>
+                    <td>@unaC.CantidadDeEntradas</td>
+                    <td>@unaC.IdUsuarioCompra.NombreUsuario</td>
+                    <td>@unaC.FechaYHoraCompra</td>
+                    <td>@unaC.PrecioFinal</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+

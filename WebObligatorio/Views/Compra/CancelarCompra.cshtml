@@ -1,0 +1,31 @@
+﻿@using Dominio;
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@*<br><br>*@
+
+<h1>Estado de Cancelacion</h1>
+
+@if (@ViewBag.ResultadoOk != null)
+{
+    <div class="alert alert-success" role="alert">
+        @ViewBag.ResultadoOk
+    </div>
+}
+
+@if(@ViewBag.ResultadoError != null) 
+ { 
+    <div class="alert alert-danger" role="alert">
+        @ViewBag.ResultadoError
+    </div>
+ }
+    <br>
+
+    <a href="/Compra/BuscarCompra"> Volver </a>
+
+
+
+

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVgKyugtdfEy3b++VEsdVVwAAAAACAAAAAAAQZgAAAAEAACAAAACKOrMBvHq0FtwIWwr3x20lMgMyf83NMpT9HvDQoroKSwAAAAAOgAAAAAIAACAAAADUWyaT9U2BA5IkrGc3KIE1YMsQYsSOYXkUmwyJ+ITEVyAAAAAwm4ysivbsRJjWh4W95au4NEaOU0QKHON4rTydE3dcnEAAAACB/9EZ2XxBC7EMdLOJY4+hRidRZZmzZGMJwz/1s96uz7Aapxx5QN7SiIxwrjRweMHPJLsHsxTwE0DVcOHRMA6Y</EncryptedPassword>
+    <_PublishTargetUrl>ftp://obligatoriop2.somee.com/Obligatorio p2</_PublishTargetUrl>
+    <History>True|2021-11-16T21:57:21.4319618Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="Dominio.dll">
+      <publishTime>11/16/2021 17:04:46</publishTime>
+    </File>
+    <File Include="Dominio.pdb">
+      <publishTime>11/16/2021 17:04:46</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>11/16/2021 18:54:47</publishTime>
+    </File>
+    <File Include="WebObligatorio.deps.json">
+      <publishTime>11/16/2021 18:54:47</publishTime>
+    </File>
+    <File Include="WebObligatorio.dll">
+      <publishTime>11/16/2021 18:54:46</publishTime>
+    </File>
+    <File Include="WebObligatorio.exe">
+      <publishTime>11/16/2021 18:54:46</publishTime>
+    </File>
+    <File Include="WebObligatorio.pdb">
+      <publishTime>11/16/2021 18:54:46</publishTime>
+    </File>
+    <File Include="WebObligatorio.runtimeconfig.json">
+      <publishTime>11/16/2021 17:04:49</publishTime>
+    </File>
+    <File Include="WebObligatorio.Views.dll">
+      <publishTime>11/16/2021 18:54:47</publishTime>
+    </File>
+    <File Include="WebObligatorio.Views.pdb">
+      <publishTime>11/16/2021 18:54:47</publishTime>
+    </File>
+    <File Include="wwwroot/css/site.css">
+      <publishTime>11/16/2021 09:31:44</publishTime>
+    </File>
+    <File Include="wwwroot/favicon.ico">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/img/Megusta.png">
+      <publishTime>11/11/2021 20:50:43</publishTime>
+    </File>
+    <File Include="wwwroot/img/textura.jpg">
+      <publishTime>11/09/2021 17:56:11</publishTime>
+    </File>
+    <File Include="wwwroot/js/site.js">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.css">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.css.map">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.min.css">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.js">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.js.map">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.min.js">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/LICENSE">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/additional-methods.js">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/additional-methods.min.js">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/jquery.validate.js">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/jquery.validate.min.js">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/LICENSE.md">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.js">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.min.js">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.min.map">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/LICENSE.txt">
+      <publishTime>10/28/2021 18:58:19</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

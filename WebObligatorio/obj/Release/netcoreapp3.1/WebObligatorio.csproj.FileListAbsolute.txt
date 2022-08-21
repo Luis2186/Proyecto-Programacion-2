@@ -1,0 +1,116 @@
+B:\Web Obligatorio\WebObligatorio\bin\Release\netcoreapp3.1\appsettings.Development.json
+B:\Web Obligatorio\WebObligatorio\bin\Release\netcoreapp3.1\appsettings.json
+B:\Web Obligatorio\WebObligatorio\bin\Release\netcoreapp3.1\WebObligatorio.exe
+B:\Web Obligatorio\WebObligatorio\bin\Release\netcoreapp3.1\WebObligatorio.deps.json
+B:\Web Obligatorio\WebObligatorio\bin\Release\netcoreapp3.1\WebObligatorio.runtimeconfig.json
+B:\Web Obligatorio\WebObligatorio\bin\Release\netcoreapp3.1\WebObligatorio.runtimeconfig.dev.json
+B:\Web Obligatorio\WebObligatorio\bin\Release\netcoreapp3.1\WebObligatorio.dll
+B:\Web Obligatorio\WebObligatorio\bin\Release\netcoreapp3.1\WebObligatorio.pdb
+B:\Web Obligatorio\WebObligatorio\bin\Release\netcoreapp3.1\WebObligatorio.Views.dll
+B:\Web Obligatorio\WebObligatorio\bin\Release\netcoreapp3.1\WebObligatorio.Views.pdb
+B:\Web Obligatorio\WebObligatorio\bin\Release\netcoreapp3.1\Dominio.dll
+B:\Web Obligatorio\WebObligatorio\bin\Release\netcoreapp3.1\Dominio.pdb
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.csproj.AssemblyReference.cache
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.AssemblyInfoInputs.cache
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.AssemblyInfo.cs
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.csproj.CoreCompileInputs.cache
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.MvcApplicationPartsAssemblyInfo.cache
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.RazorAssemblyInfo.cache
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.RazorAssemblyInfo.cs
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\staticwebassets\WebObligatorio.StaticWebAssets.Manifest.cache
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\staticwebassets\WebObligatorio.StaticWebAssets.xml
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\scopedcss\bundle\WebObligatorio.styles.css
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.TagHelpers.input.cache
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.TagHelpers.output.cache
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.RazorCoreGenerate.cache
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Actividad\Index.cshtml.g.cs
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Actividad\ListActCompra.cshtml.g.cs
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Actividad\ListActMeGusta.cshtml.g.cs
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Actividad\ListarActividades.cshtml.g.cs
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Actividad\MeGustaActividad.cshtml.g.cs
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Actividad\SegunCatFecha.cshtml.g.cs
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Actividad\SegunLugar.cshtml.g.cs
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Compra\BuscarCompra.cshtml.g.cs
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Compra\CancelarCompra.cshtml.g.cs
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Compra\ComprarActividad.cshtml.g.cs
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Compra\ComprarEntradas.cshtml.g.cs
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Compra\CompraSegunCliente.cshtml.g.cs
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Compra\ComprasEntreFechas.cshtml.g.cs
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Compra\ComprasMayores.cshtml.g.cs
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Usuario\AltaUsuario.cshtml.g.cs
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Usuario\Index.cshtml.g.cs
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Usuario\ListaUsuario.cshtml.g.cs
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.RazorTargetAssemblyInfo.cache
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.RazorTargetAssemblyInfo.cs
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.Views.pdb
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.csproj.CopyComplete
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.dll
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.pdb
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.genruntimeconfig.cache
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Usuario\AltaUsuarioSinIdentificar.cshtml.g.cs
+B:\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Usuario\Bienvenida.cshtml.g.cs
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\bin\Release\netcoreapp3.1\WebObligatorio.exe
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\bin\Release\netcoreapp3.1\WebObligatorio.deps.json
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\bin\Release\netcoreapp3.1\WebObligatorio.runtimeconfig.json
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\bin\Release\netcoreapp3.1\WebObligatorio.runtimeconfig.dev.json
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\bin\Release\netcoreapp3.1\WebObligatorio.dll
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\bin\Release\netcoreapp3.1\WebObligatorio.pdb
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\bin\Release\netcoreapp3.1\WebObligatorio.Views.dll
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\bin\Release\netcoreapp3.1\WebObligatorio.Views.pdb
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\bin\Release\netcoreapp3.1\Dominio.dll
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\bin\Release\netcoreapp3.1\Dominio.pdb
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.csproj.AssemblyReference.cache
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.AssemblyInfoInputs.cache
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.AssemblyInfo.cs
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.RazorAssemblyInfo.cache
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.RazorAssemblyInfo.cs
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\staticwebassets\WebObligatorio.StaticWebAssets.Manifest.cache
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\staticwebassets\WebObligatorio.StaticWebAssets.xml
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\scopedcss\bundle\WebObligatorio.styles.css
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.TagHelpers.input.cache
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.TagHelpers.output.cache
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.RazorCoreGenerate.cache
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Actividad\Index.cshtml.g.cs
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Actividad\ListActCompra.cshtml.g.cs
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Actividad\ListActMeGusta.cshtml.g.cs
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Actividad\ListarActividades.cshtml.g.cs
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Actividad\MeGustaActividad.cshtml.g.cs
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Actividad\SegunCatFecha.cshtml.g.cs
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Actividad\SegunLugar.cshtml.g.cs
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Compra\BuscarCompra.cshtml.g.cs
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Compra\CancelarCompra.cshtml.g.cs
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Compra\ComprarActividad.cshtml.g.cs
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Compra\ComprarEntradas.cshtml.g.cs
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Compra\CompraSegunCliente.cshtml.g.cs
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Compra\ComprasEntreFechas.cshtml.g.cs
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Compra\ComprasMayores.cshtml.g.cs
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Usuario\AltaUsuario.cshtml.g.cs
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Usuario\AltaUsuarioSinIdentificar.cshtml.g.cs
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Usuario\Bienvenida.cshtml.g.cs
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Usuario\Index.cshtml.g.cs
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\Usuario\ListaUsuario.cshtml.g.cs
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.RazorTargetAssemblyInfo.cache
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.RazorTargetAssemblyInfo.cs
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.Views.pdb
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.csproj.CopyComplete
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.dll
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.pdb
+C:\Users\lilp_\Desktop\ORT\Programacion 2\Obligatorio P2 Final\Web Obligatorio\WebObligatorio\obj\Release\netcoreapp3.1\WebObligatorio.genruntimeconfig.cache

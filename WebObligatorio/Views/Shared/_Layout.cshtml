@@ -1,0 +1,95 @@
+﻿@using Microsoft.AspNetCore.Http
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - WebObligatorio</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="container">          
+                <ul>
+                    @if (Context.Session.GetString("LogRol") == "SinIdentificar")
+                    {
+                        <!-- Usuario Sin Identificar -->
+                        <li>
+                            <a asp-area="" asp-controller="Actividad" asp-action="ListarActividades">Lista de Actividades</a>
+                        </li>
+                        <li>
+                            <a asp-area="" asp-controller="Usuario" asp-action="AltaUsuario">Registro</a>
+                        </li>
+                    }
+                    else if (Context.Session.GetString("LogRol") == "Cliente")
+                    {
+                        <!-- Usuario Cliente -->
+                        <li>
+                            <a asp-area="" asp-controller="Actividad" asp-action="ListActCompra">Compra de Actividades</a>
+                        </li>
+                        <li>
+                            <a asp-area="" asp-controller="Compra" asp-action="ComprarEntradas">Comprar Entradas</a>
+                        </li>
+                        <li>
+                            <a asp-area="" asp-controller="Compra" asp-action="CompraSegunCliente">Compras Personales</a>
+                        </li>
+                        <li>
+                            <a asp-area="" asp-controller="Compra" asp-action="BuscarCompra">Cancelar Compra</a>
+                        </li>
+                        <li>
+                            <a asp-area="" asp-controller="Actividad" asp-action="ListActMeGusta">Likes Actividades</a>
+                        </li>
+                    }
+                    else if (Context.Session.GetString("LogRol") == "Operador")
+                    {
+                        <!-- Usuario Operador -->
+
+                        <li>
+                            <a asp-area="" asp-controller="Compra" asp-action="ComprasEntreFechas">Compra entre Fechas</a>
+                        </li>
+                        <li>
+                            <a asp-area="" asp-controller="Usuario" asp-action="ListaUsuario">Lista de Usuarios </a>
+                        </li>
+                        <li>
+                            <a asp-area="" asp-controller="Actividad" asp-action="SegunLugar">Buscar Actividad por Lugar</a>
+                        </li>
+                        <li>
+                            <a asp-area="" asp-controller="Actividad" asp-action="SegunCatFecha">Act. por Categoria y Fecha</a>
+                        </li>
+                        <li>
+                            <a asp-area="" asp-controller="Compra" asp-action="ComprasMayores">Compras Mayores</a>
+                        </li>
+                    }
+
+                    @if (   Context.Session.GetString("LogRol") == "SinIdentificar" ||
+                            Context.Session.GetString("LogRol") == "Cliente" ||
+                            Context.Session.GetString("LogRol") == "Operador")
+                    {
+                        <li>
+                            <a asp-area="" asp-controller="Login" asp-action="LogOut">Salir</a>
+                        </li>
+                    }
+                </ul>         
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2021 - WebObligatorio - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,32 @@
+﻿@using Dominio;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1> Lista de Usuarios Clientes Ordenados</h1>
+<table class="table table-dark table-striped">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Nombre</th>
+            <th scope="col">Usuario</th>
+            <th scope="col">Apellido</th>
+            <th scope="col">Email</th>
+            <th scope="col">FechaNacimiento</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Usuario unU in ViewBag.ListaUsuarios)
+        {
+        <tr>
+            <th scope="row">@unU.IdUsuario</th>
+            <td>@unU.Nombre</td>
+            <td>@unU.NombreUsuario</td>
+            <td>@unU.Apellido</td>
+            <td>@unU.Email</td>
+            <td>@unU.FechaNacimiento</td>
+        </tr>
+        }
+    </tbody>
+</table>

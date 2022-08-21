@@ -1,0 +1,47 @@
+﻿@using Dominio;
+@model Compra
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h1> Buscar Compra</h1>
+<br>
+<br>
+<form method="post" class="formulario">
+    <label> Ingrese el ID de la Compra</label>
+    <br>
+    <input type="number" name="id">
+    <br>
+    <br>
+    <input type="submit" value="Buscar">
+</form>
+<br>
+<br>
+
+@if (ViewBag.unaC != null)
+{
+    <h2> Compra </h2>
+    <p>ID Compra: @ViewBag.unaC.IdCompra</p>
+    <p>Cantidad de Entradas: @ViewBag.unaC.CantidadDeEntradas</p>
+    <p>Fecha y Hora: @ViewBag.unaC.FechaYHoraCompra</p>
+    <p>Nombre de Usuario:  @ViewBag.unaC.IdUsuarioCompra.Nombre</p>
+    <p>Precio Total: @ViewBag.unaC.PrecioFinal</p>
+    <br>
+
+    <a href="/Compra/CancelarCompra/@ViewBag.unaC.IdCompra"> Cancelar Compra </a>
+
+} else
+{
+    @if(@ViewBag.Resultado != null) 
+     { 
+        <div class="alert alert-danger" role="alert">
+            @ViewBag.Resultado
+        </div>
+     }
+}
+
+
+
+

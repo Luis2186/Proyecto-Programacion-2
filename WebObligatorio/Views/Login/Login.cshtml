@@ -1,0 +1,34 @@
+﻿@using Dominio;
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+<div class="centrar">
+
+    <form method="post" class="text-center">
+        <div class="mb-3">
+            <label for="nombreUsuario" class="form-label">Nombre de Usuario</label>
+            <input type="text" name="nombreDeUsuario" class="form-control" id="nombreUsuario">
+        </div>
+        <div class="mb-3">
+            <label for="password" class="form-label">Password</label>
+            <input type="password" name="password" class="form-control" id="password">
+        </div>
+        <button type="submit" class="btn btn-danger">Ingresar</button>
+        <a href="/Usuario/AltaUsuarioSinIdentificar" class="btn btn-danger"> Registrar </a>
+    </form>
+
+    @if (@ViewBag.Error != null && @ViewBag.Error1 != null)
+    {
+        <div class="alert alert-danger" role="alert">
+            @ViewBag.Error <br>
+            @ViewBag.Error1
+        </div>
+    }
+
+</div>
+

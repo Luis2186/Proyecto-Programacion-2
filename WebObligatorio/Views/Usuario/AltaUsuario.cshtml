@@ -1,0 +1,44 @@
+﻿@using Dominio;
+@model Usuario
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<form method="post" class="formulario" id="registro">
+    <label for="">Nombre </label>
+    <input type="text" name="nombre" value="@ViewBag.nombre"><br>
+    <label for="">Apellido</label>
+    <input type="text" name="apellido" value="@ViewBag.apellido"><br>
+    <label for="">E-Mail </label>
+    <input type="text" name="email" value="@ViewBag.email"><br>
+    <label for="">Fecha de Nacimiento</label>
+    <input type="date" name="fechaNacimiento" value="@ViewBag.fechaNacimiento" required><br>
+    <label for="">Nombre de Usuario </label>
+    <input type="text" name="nombreUsuario" value="@ViewBag.nombreUsuario"><br>
+    <label for="">Contraseña </label>
+    <input type="password" name="contraseña"><br>
+    <input type="submit" value="Registrar">
+</form>
+
+
+@if (ViewBag.ResultadoOk != null)
+{
+    <div class="alert alert-success" role="alert">
+        @ViewBag.ResultadoOk
+    </div>
+}
+
+@if (ViewBag.ResultadoError != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewBag.ResultadoError
+    </div>
+}
+
+
+
+
+
+

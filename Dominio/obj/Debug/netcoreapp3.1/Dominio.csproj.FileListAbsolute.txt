@@ -1,0 +1,19 @@
+C:\Users\lilp_\source\repos\ObligatorioRespaldo\Obligatorio\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\lilp_\source\repos\ObligatorioRespaldo\Obligatorio\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\lilp_\source\repos\ObligatorioRespaldo\Obligatorio\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\lilp_\source\repos\ObligatorioRespaldo\Obligatorio\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lilp_\source\repos\ObligatorioRespaldo\Obligatorio\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\lilp_\source\repos\ObligatorioRespaldo\Obligatorio\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\lilp_\source\repos\ObligatorioRespaldo\Obligatorio\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\lilp_\source\repos\ObligatorioRespaldo\Obligatorio\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\lilp_\source\repos\ObligatorioRespaldo\Obligatorio\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+B:\Web Obligatorio\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+B:\Web Obligatorio\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+B:\Web Obligatorio\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+B:\Web Obligatorio\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+B:\Web Obligatorio\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+B:\Web Obligatorio\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+B:\Web Obligatorio\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+B:\Web Obligatorio\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+B:\Web Obligatorio\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+B:\Web Obligatorio\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb

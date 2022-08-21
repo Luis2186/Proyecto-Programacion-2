@@ -1,0 +1,63 @@
+﻿@using Dominio;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h1>Lista de Actividades por Lugar</h1>
+<br>
+<br>
+<form method="post" class="formulario">
+    <label> Seleccione el Lugar</label>
+    <br>
+    <select name=nombreLugar>
+        @foreach (Lugar unLugar in ViewBag.UnL)
+        {
+            <option> @unLugar.NombreLugar </option>
+        }
+    </select>
+    <br> <br>
+    <input type="submit" value="Buscar">
+</form>
+<br>
+<br>
+
+@if(ViewBag.unaA != null && ViewBag.unaA.Count != 0) { 
+    <table class="table table-dark table-striped">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Nombre</th>
+                <th scope="col">Categoria</th>
+                <th scope="col">Fecha y Hora</th>
+                <th scope="col">Lugar</th>
+                <th scope="col">Edad Minima</th>
+                <th scope="col">Precio</th>
+                <th scope="col">Cantidad de Likes</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Actividad unaA in @ViewBag.unaA)
+            {
+                <tr>
+                    <th scope="row">@unaA.IdActividad</th>
+                    <td>@unaA.NombreActividad</td>
+                    <td>@unaA.Categoria</td>
+                    <td>@unaA.FechaYHora</td>
+                    <td>@unaA.Lugar.NombreLugar</td>
+                    <td>@unaA.EdadMinima</td>
+                    <td>@unaA.CalcularPrecioFinalActividad()</td>
+                    <td>@unaA.CantidadMegusta</td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+@if (ViewBag.Respuesta != null)
+{
+<div class="alert alert-danger" role="alert">
+    @ViewBag.Respuesta
+</div>
+}

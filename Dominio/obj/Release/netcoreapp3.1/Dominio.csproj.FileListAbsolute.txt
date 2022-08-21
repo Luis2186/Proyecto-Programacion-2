@@ -1,0 +1,10 @@
+B:\Web Obligatorio\Dominio\bin\Release\netcoreapp3.1\Dominio.deps.json
+B:\Web Obligatorio\Dominio\bin\Release\netcoreapp3.1\Dominio.dll
+B:\Web Obligatorio\Dominio\bin\Release\netcoreapp3.1\Dominio.pdb
+B:\Web Obligatorio\Dominio\obj\Release\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+B:\Web Obligatorio\Dominio\obj\Release\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+B:\Web Obligatorio\Dominio\obj\Release\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+B:\Web Obligatorio\Dominio\obj\Release\netcoreapp3.1\Dominio.AssemblyInfo.cs
+B:\Web Obligatorio\Dominio\obj\Release\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+B:\Web Obligatorio\Dominio\obj\Release\netcoreapp3.1\Dominio.dll
+B:\Web Obligatorio\Dominio\obj\Release\netcoreapp3.1\Dominio.pdb

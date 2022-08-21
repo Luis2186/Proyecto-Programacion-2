@@ -1,0 +1,42 @@
+﻿@using Dominio;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h1>Lista de Actividades</h1>
+
+@if(ViewBag.ListaActividades != null && ViewBag.ListaActividades.Count !=0) { 
+<table class="table table-dark table-striped">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Nombre</th>
+            <th scope="col">Categoria</th>
+            <th scope="col">Fecha y Hora</th>
+            <th scope="col">Lugar</th>
+            <th scope="col">Edad Minima</th>
+            <th scope="col">Precio</th>
+            <th scope="col">Cantidad de Likes</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Actividad unaA in @ViewBag.ListaActividades)
+        {
+            <tr>
+                <th scope="row">@unaA.IdActividad</th>
+                <td>@unaA.NombreActividad</td>
+                <td>@unaA.Categoria</td>
+                <td>@unaA.FechaYHora</td>
+                <td>@unaA.Lugar.NombreLugar</td>
+                <td>@unaA.EdadMinima</td>
+                <td>@unaA.CalcularPrecioFinalActividad()</td>
+                <td>@unaA.CantidadMegusta</td>
+                <td> <a href="/Actividad/MeGustaActividad/?nombreActividad=@unaA.NombreActividad"> <img src="~/img/Megusta.png" width="40"> </a>
+
+            </tr>
+        }
+    </tbody>
+</table>
+}
